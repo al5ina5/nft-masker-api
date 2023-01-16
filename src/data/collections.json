@@ -20,16 +20,6 @@
         "metadata": "https://oerszexrnffsjwiltxox.supabase.in/storage/v1/object/public/frogs/keycards/metadata"
     },
     {
-        "name": "hamsteria",
-        "contract": "0x0Ef9d39bbBED9C4983Ddc4a1E189eE4938D837b3",
-        "metadata": "https://ftmdead.mypinata.cloud/ipfs/QmXmxDPMw1ziwQ8EMKS5y5jq7sQTmemtHGi5JwscXjn3zD"
-    },
-    {
-        "name": "hamsteria-v2",
-        "contract": "0x245c236Ce2bE6f7E92254Bb7C55b9Ad3ee563df4",
-        "metadata": "https://ftmdead.mypinata.cloud/ipfs/QmY1ETvnJtcJa4eAhKiFVorB5U2h3eUMYAjkb7z54qqb5w"
-    },
-    {
         "name": "fruits",
         "contract": "0x681535b766Ce7e8AA9B274Aee791Ba0217c67096",
         "metadata": "https://oerszexrnffsjwiltxox.supabase.in/storage/v1/object/public/fruits/metadata"
